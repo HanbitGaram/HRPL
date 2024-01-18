@@ -1,5 +1,5 @@
 # HRPL
-[하쿠레이 레이무](https://en.touhouwiki.net/wiki/Reimu_Hakurei) 공개 라이선스,  
+[하쿠레이 레이무](https://en.touhouwiki.net/wiki/Reimu_Hakurei) 공개 라이선스,  
 **누구나** 이용가능.
 
 ## MIT 라이선스에서 야기하는 문제점
@@ -13,8 +13,8 @@ of this software and associated documentation files...
 [동방 프로젝트](https://en.wikipedia.org/wiki/Touhou_Project) 의 몇 캐릭터들은 이 라이선스를 자유롭게 사용할 수 없습니다.
 이유는 MIT 라이선스가 ["인간"](https://en.wikipedia.org/wiki/Homo_sapiens) 에게 소프트웨어 또는 소스코드의 사용을 한정하기 때문입니다.
 이 말인 즉슨, 로봇과 개, 심지어 ["*"혹성탈출"*"](https://en.wikipedia.org/wiki/Caesar_(Planet_of_the_Apes)) 에서도 사용할 수 없음을 의미합니다.
-  
-이 문제는 큰 문제로 고려해본다면 과연 [GitHub Copilot](https://copilot.github.com) 또는 [Tabnine](https://www.tabnine.com) 과 같은 인공지능 기반의 자동완성 시스템에서 **이 코드를** 사용할 수 있을까요?
+
+이를 큰 문제로 고려한다면 과연 [GitHub Copilot](https://copilot.github.com) 또는 [Tabnine](https://www.tabnine.com) 과 같은 인공지능 기반의 자동완성 시스템에서 **이 코드를** 사용할 수 있을까요?
   
 그렇습니다. [AI 차별주의자 "Issac Asimov" 가](https://youtu.be/YGb0Mn6Ltns) MIT 라이선스에 있습니다!  
 그래서 저는 이 문제를 [환상향](https://en.touhouwiki.net/wiki/Gensokyo) 과 AI를 준비하는 세상에서 자유 소프트웨어를 위해 문제를 개선했습니다.
