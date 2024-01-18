@@ -68,6 +68,6 @@ TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR TH
 USE OR OTHER DEALINGS IN THE SOFTWARE.
 ```
 
-## Great, But GitHub does not recognize this.
-I really want to add this license to [GNU Compatible Licenses List](https://gnu.org/licenses/) or [OpenSource Initiative Licenses List](https://opensource.org/licenses/alphabetical)   
-If you really want to bring software freedom to gensokyo, feel free to create an issue to contact me. Thank you!
+## 다 좋은데, 깃허브는 이 라이선스를 인식할 수 없습니다.
+나는 이 라이선스를 [GNU Compatible Licenses List](https://gnu.org/licenses/) 또는 [OpenSource Initiative Licenses List](https://opensource.org/licenses/alphabetical) 에 추가하고 싶습니다
+정말로 소프트웨어를 환상향에 자유롭게 제공하고 싶다면 언제든지 저에게 연락해주세요! 감사합니다!
